@@ -1,0 +1,13 @@
+Steps to execute FibonacciGenerator program.
+
+step 1: After compiling the program.
+step 2: Enter desired number as input from command line arguments.
+step 3: Click on Execute/Run button.
+step 4: Fibonacci series will be displayed as output in the console.
+
+
+
+
+
+
+
